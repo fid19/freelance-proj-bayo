@@ -28,7 +28,8 @@ export const metadata: Metadata = {
       "Hi, We are TabStudio - A Freelance Agency that helps creators and brands tell better stories through sharp and engaging edits.",
     url: "http://freelance-proj-bayo-o34nmgbi6-fid19s-projects.vercel.app",
     images: {
-      url: "https://freelance-proj-bayo-o34nmgbi6-fid19s-projects.vercel.app/metadata/tourist.webp",
+      url: "/metadata/tourist.webp",
+      secureUrl: "/metadata/tourist.webp",
       width: 1200,
       height: 630,
       alt: "Open Graph Image",
