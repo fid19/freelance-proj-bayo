@@ -16,7 +16,9 @@ export const metadata: Metadata = {
   title: "TabStudio - Freelance Agency",
   description:
     "Hi, We are TabStudio - A Freelance Agency that helps creators and brands tell better stories through sharp and engaging edits.",
-  metadataBase: new URL("http://localhost:3000"),
+  metadataBase: new URL(
+    "http://freelance-proj-bayo-o34nmgbi6-fid19s-projects.vercel.app"
+  ),
   openGraph: {
     locale: "en_US",
     type: "website",
@@ -24,9 +26,9 @@ export const metadata: Metadata = {
       "TabStudio is a freelance agency that helps bring your content to life.",
     description:
       "Hi, We are TabStudio - A Freelance Agency that helps creators and brands tell better stories through sharp and engaging edits.",
-    url: "http://localhost:3000",
+    url: "http://freelance-proj-bayo-o34nmgbi6-fid19s-projects.vercel.app",
     images: {
-      url: "http://localhost:3000/metadata/tourist.webp",
+      url: "https://freelance-proj-bayo-o34nmgbi6-fid19s-projects.vercel.app/metadata/tourist.webp",
       width: 1200,
       height: 630,
       alt: "Open Graph Image",
